@@ -1,0 +1,6 @@
+framework module filters {
+  umbrella header "FTFiltersModuleExport.h"
+
+  export *
+  module * { export * }
+}

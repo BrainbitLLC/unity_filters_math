@@ -1,0 +1,18 @@
+{
+  "name": "com.neurotech.filterslib",
+  "version": "1.0.0",
+  "displayName": "FiltersLib",
+  "description": "It is a cross-platform library that allows you to filter the signal with a given set of filters for a specified sampling rate",
+  "unity": "2022.3",
+  "dependencies": {},
+  "keywords": [
+    "filters",
+    "signal",
+    "neurotech"
+  ],
+  "author": {
+    "name": "BrainBit LLC",
+    "email": "support@brainbit.com",
+    "url": "https://gitlab.com/neurosdk2/neurosamples"
+  }
+}
